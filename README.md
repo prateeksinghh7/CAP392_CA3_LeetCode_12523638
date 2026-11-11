@@ -19,7 +19,6 @@ This repository contains solutions to 16 selected LeetCode problems developed us
 - **Language:** Java
 - **Coding Platform:** LeetCode
 - **Version Control:** GitHub
-- **Development Environment:** VS Code
 
 ### Project Directory Structure
 
